@@ -1,0 +1,5 @@
+{
+  "name": "Eazbook",
+  "description": "Eazbook - A complete multi-tenant ERP software with AI-driven CRM, HR, Inventory, and Accounting features.",
+  "requestFramePermissions": ["camera"]
+}
